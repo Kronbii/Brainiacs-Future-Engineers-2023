@@ -1,0 +1,31 @@
+# General
+.DS_Store
+*.log
+*.tmp
+*.swp
+__pycache__/
+*.pyc
+
+# Python venv
+.venv/
+venv/
+
+# Jetson / Python artifacts
+*.onnx
+*.engine
+*.pth
+
+# IDE
+.vscode/
+.idea/
+
+# Arduino build (if using Arduino CLI / caches)
+build/
+*.hex
+*.elf
+
+# Media raw dumps
+raw_captures/
+
+# Temporary calibration data
+calibration/*.json
