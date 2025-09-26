@@ -120,16 +120,6 @@ Reference: `schemes/Schematic circuit .png` and `docs/hardware` notes.
 
 ## 📸 Media & Demo
 See gallery in `v-photos/` & team in `t-photos/`.
-Add / update demo video link in `docs/media/` (create a `video.md`).
-
----
-
-## 🛣 Roadmap / Ideas
-- [ ] Lightweight CNN for sign recognition
-- [ ] On‑device telemetry logging (CSV)
-- [ ] Configurable PID over serial shell
-- [ ] Wheel encoder integration for velocity control
-- [ ] Safety watchdog & failsafe braking
 
 ---
 
