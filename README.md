@@ -5,7 +5,7 @@
 
 An end‑to‑end open hardware + software autonomous race vehicle built in **20 days** for the WRO Future Engineers challenge. Combines embedded control, sensor fusion, and Jetson‑powered computer vision.
 
-![Vehicle Front View](v-photos/right.jpeg)
+![Vehicle Front View](v-photos/demo.png)
 
 </div>
 
